@@ -4,7 +4,7 @@
 # Recipes App
 ![!project status](https://img.shields.io/badge/status-development-f4a201?style=flat&logo=visual-studio-code)   
 ![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react) 
-![!NodeJS](https://img.shields.io/badge/node.js-yellowgreen?style=flat&logo=javascript) 
+![!NodeJS](https://img.shields.io/badge/node.js-darkblue?style=flat&logo=node-dot-js) 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
 
