@@ -2,9 +2,9 @@
 ##### https://www.betrybe.com/ (in Portuguese)
 
 # Recipes App
-![!project status](https://img.shields.io/badge/status-development-f4a201)   
-![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react)   
-![!NodeJS](https://img.shields.io/badge/node.js-green?style=flat&logo=javascript) 
+![!project status](https://img.shields.io/badge/status-development-f4a201?style=flat&logo=visual-studio-code)   
+![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react) 
+![!NodeJS](https://img.shields.io/badge/node.js-yellowgreen?style=flat&logo=javascript) 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
 
