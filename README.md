@@ -1,8 +1,10 @@
 #### <a name="top"></a> This repo is a clone of an individual project part of [Trybe](https://www.betrybe.com/) junior web developer course.
 ##### https://www.betrybe.com/ (in Portuguese)
 
-# Recipes App ![!project status](https://img.shields.io/badge/status-development-yellow)   ![!react](https://img.shields.io/badge/deps-react-purple) ![!NodeJS](https://img.shields.io/badge/deps-node.js-green)
-
+# Recipes App
+![!project status](https://img.shields.io/badge/status-development-f4a201)   
+![!react](https://img.shields.io/badge/react-purple?style=flat&logo=react)   
+![!NodeJS](https://img.shields.io/badge/node.js-green?style=flat&logo=javascript) 
 - [Requisites](#requisites)
 - [Instructions](#instructions)
 
